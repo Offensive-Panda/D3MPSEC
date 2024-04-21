@@ -12,9 +12,11 @@ https://github.com/Offensive-Panda/D3MPSEC/assets/76246439/afdfc906-fe76-447d-ac
 
 # Commands for offline dumping.
 1) Mimikatz
+   
    sekurlsa::minidump [filename]
    sekurlsa::logonpasswords
 3) Pypykatz
+   
    pypykatz lsa minidump [filename]
    
 
