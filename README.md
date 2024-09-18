@@ -19,5 +19,5 @@ https://github.com/Offensive-Panda/D3MPSEC/assets/76246439/afdfc906-fe76-447d-ac
    
    pypykatz lsa minidump [filename]
    
-### Disclaimer
+## Disclaimer
 This repository is only for educational purposes.
